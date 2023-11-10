@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tennisfolio/static/css/main.12ae740d.css",
-    "main.js": "/tennisfolio/static/js/main.c687501a.js",
+    "main.css": "/tennisfolio/static/css/main.2a17fd21.css",
+    "main.js": "/tennisfolio/static/js/main.1a179ecb.js",
     "static/js/787.1e70f99f.chunk.js": "/tennisfolio/static/js/787.1e70f99f.chunk.js",
     "static/media/building.svg": "/tennisfolio/static/media/building.34ac5bf463c6a2a33859.svg",
     "static/media/write.svg": "/tennisfolio/static/media/write.28a25e4d82eb25b8f303.svg",
     "index.html": "/tennisfolio/index.html",
-    "main.12ae740d.css.map": "/tennisfolio/static/css/main.12ae740d.css.map",
-    "main.c687501a.js.map": "/tennisfolio/static/js/main.c687501a.js.map",
+    "main.2a17fd21.css.map": "/tennisfolio/static/css/main.2a17fd21.css.map",
+    "main.1a179ecb.js.map": "/tennisfolio/static/js/main.1a179ecb.js.map",
     "787.1e70f99f.chunk.js.map": "/tennisfolio/static/js/787.1e70f99f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12ae740d.css",
-    "static/js/main.c687501a.js"
+    "static/css/main.2a17fd21.css",
+    "static/js/main.1a179ecb.js"
   ]
 }
